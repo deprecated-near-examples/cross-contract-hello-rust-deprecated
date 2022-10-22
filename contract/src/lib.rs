@@ -40,7 +40,7 @@ impl Contract {
     // Check if the promise succeeded by calling the method outlined in external.rs
     if call_result.is_err() {
       log!("There was an error contacting Hello NEAR");
-      "".to_string()
+      return "".to_string();
     }
 
     // Return the greeting
