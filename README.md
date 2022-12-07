@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Gitpod-Ready-orange)](https://gitpod.io/#/https://github.com/near-examples/xcc-rust)
 [![](https://img.shields.io/badge/Contract-rust-red)](https://docs.near.org/develop/contracts/anatomy)
 [![](https://img.shields.io/badge/Frontend-none-inactive)](#)
-[![](https://img.shields.io/badge/Testing-passing-green)](https://docs.near.org/develop/integrate/frontend)
+[![](https://img.shields.io/github/workflow/status/near-examples/cross-contract-hello-rust/Tests/main?color=green&label=Tests)](https://github.com/near-examples/cross-contract-hello-rust/actions/workflows/tests.yml)
 
 
 The smart contract implements the simplest form of cross-contract calls: it calls the [Hello NEAR example](https://docs.near.org/tutorials/examples/hello-near) to get and set a greeting.
