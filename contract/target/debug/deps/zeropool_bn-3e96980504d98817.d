@@ -1,0 +1,12 @@
+/home/velimir/cross-contract-hello-rust/contract/target/debug/deps/zeropool_bn-3e96980504d98817.rmeta: /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/lib.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/arith.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/mod.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fp.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq12.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq2.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq6.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/groups/mod.rs
+
+/home/velimir/cross-contract-hello-rust/contract/target/debug/deps/zeropool_bn-3e96980504d98817.d: /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/lib.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/arith.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/mod.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fp.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq12.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq2.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq6.rs /home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/groups/mod.rs
+
+/home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/lib.rs:
+/home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/arith.rs:
+/home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/mod.rs:
+/home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fp.rs:
+/home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq12.rs:
+/home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq2.rs:
+/home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/fields/fq6.rs:
+/home/velimir/.cargo/registry/src/github.com-1ecc6299db9ec823/zeropool-bn-0.5.11/src/groups/mod.rs:
